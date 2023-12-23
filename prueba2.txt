@@ -2,3 +2,6 @@ segundo archivo n 3
 
 inicio de cabecera
 
+
+nuevo texto
+
