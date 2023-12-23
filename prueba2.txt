@@ -1,3 +1,15 @@
 segundo archivo n 3
 
+<<<<<<< HEAD
 regresando a master
+=======
+inicio de cabecera
+
+
+nuevo texto
+
+>>>>>>> cabecera
+
+
+despues de marge
+
